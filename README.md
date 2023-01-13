@@ -1,5 +1,4 @@
 # Resume-CV
 
-Resume for Cybersecurity and IT GRC, Linux System Administrator, ISO 27001 Lead Implementer and Auditor is uploaded.
+Resume for Cybersecurity Analyst, IT GRC Analyst, and Linux System Administrator is uploaded.
 One can download Resume via: View Code or Browse Code Section (if using Mobile Phone).
-Resume for Cybersecurity is combined with IT GRC, ISO 27001 Lead Implementer and Auditor.
